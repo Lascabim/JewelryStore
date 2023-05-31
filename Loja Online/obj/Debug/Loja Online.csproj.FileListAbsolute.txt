@@ -1,0 +1,38 @@
+C:\Users\Lascabim\Documents\Visual Studio 2022\Repos\Loja Online\Loja Online\bin\Debug\Loja Online.exe.config
+C:\Users\Lascabim\Documents\Visual Studio 2022\Repos\Loja Online\Loja Online\bin\Debug\Loja Online.exe
+C:\Users\Lascabim\Documents\Visual Studio 2022\Repos\Loja Online\Loja Online\bin\Debug\Loja Online.pdb
+C:\Users\Lascabim\Documents\Visual Studio 2022\Repos\Loja Online\Loja Online\obj\Debug\Loja Online.csproj.AssemblyReference.cache
+C:\Users\Lascabim\Documents\Visual Studio 2022\Repos\Loja Online\Loja Online\obj\Debug\Loja Online.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lascabim\Documents\Visual Studio 2022\Repos\Loja Online\Loja Online\obj\Debug\Loja_Online.Form1.resources
+C:\Users\Lascabim\Documents\Visual Studio 2022\Repos\Loja Online\Loja Online\obj\Debug\Loja_Online.Properties.Resources.resources
+C:\Users\Lascabim\Documents\Visual Studio 2022\Repos\Loja Online\Loja Online\obj\Debug\Loja Online.csproj.GenerateResource.cache
+C:\Users\Lascabim\Documents\Visual Studio 2022\Repos\Loja Online\Loja Online\obj\Debug\Loja Online.csproj.CoreCompileInputs.cache
+C:\Users\Lascabim\Documents\Visual Studio 2022\Repos\Loja Online\Loja Online\obj\Debug\Loja Online.exe
+C:\Users\Lascabim\Documents\Visual Studio 2022\Repos\Loja Online\Loja Online\obj\Debug\Loja Online.pdb
+C:\Users\Lascabim\Documents\Visual Studio 2022\Repos\Loja Online\Loja Online\obj\Debug\Loja_Online.Form2.resources
+C:\Users\Bandeira\Downloads\Loja Online\Loja Online\bin\Debug\Loja Online.exe.config
+C:\Users\Bandeira\Downloads\Loja Online\Loja Online\bin\Debug\Loja Online.exe
+C:\Users\Bandeira\Downloads\Loja Online\Loja Online\bin\Debug\Loja Online.pdb
+C:\Users\Bandeira\Downloads\Loja Online\Loja Online\obj\Debug\Loja Online.csproj.AssemblyReference.cache
+C:\Users\Bandeira\Downloads\Loja Online\Loja Online\obj\Debug\Loja Online.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bandeira\Downloads\Loja Online\Loja Online\obj\Debug\Loja_Online.Form1.resources
+C:\Users\Bandeira\Downloads\Loja Online\Loja Online\obj\Debug\Loja_Online.Form2.resources
+C:\Users\Bandeira\Downloads\Loja Online\Loja Online\obj\Debug\Loja_Online.Properties.Resources.resources
+C:\Users\Bandeira\Downloads\Loja Online\Loja Online\obj\Debug\Loja Online.csproj.GenerateResource.cache
+C:\Users\Bandeira\Downloads\Loja Online\Loja Online\obj\Debug\Loja Online.csproj.CoreCompileInputs.cache
+C:\Users\Bandeira\Downloads\Loja Online\Loja Online\obj\Debug\Loja Online.exe
+C:\Users\Bandeira\Downloads\Loja Online\Loja Online\obj\Debug\Loja Online.pdb
+C:\Users\Bandeira\Documents\VS\11 Ano\Loja Online\Loja Online\bin\Debug\Loja Online.exe.config
+C:\Users\Bandeira\Documents\VS\11 Ano\Loja Online\Loja Online\bin\Debug\Loja Online.exe
+C:\Users\Bandeira\Documents\VS\11 Ano\Loja Online\Loja Online\bin\Debug\Loja Online.pdb
+C:\Users\Bandeira\Documents\VS\11 Ano\Loja Online\Loja Online\obj\Debug\Loja Online.csproj.AssemblyReference.cache
+C:\Users\Bandeira\Documents\VS\11 Ano\Loja Online\Loja Online\obj\Debug\Loja Online.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bandeira\Documents\VS\11 Ano\Loja Online\Loja Online\obj\Debug\Loja_Online.Form1.resources
+C:\Users\Bandeira\Documents\VS\11 Ano\Loja Online\Loja Online\obj\Debug\Loja_Online.Form2.resources
+C:\Users\Bandeira\Documents\VS\11 Ano\Loja Online\Loja Online\obj\Debug\Loja_Online.Properties.Resources.resources
+C:\Users\Bandeira\Documents\VS\11 Ano\Loja Online\Loja Online\obj\Debug\Loja Online.csproj.GenerateResource.cache
+C:\Users\Bandeira\Documents\VS\11 Ano\Loja Online\Loja Online\obj\Debug\Loja Online.csproj.CoreCompileInputs.cache
+C:\Users\Bandeira\Documents\VS\11 Ano\Loja Online\Loja Online\obj\Debug\Loja Online.exe
+C:\Users\Bandeira\Documents\VS\11 Ano\Loja Online\Loja Online\obj\Debug\Loja Online.pdb
+C:\Users\Bandeira\Documents\VS\11 Ano\Loja Online\Loja Online\obj\Debug\Loja_Online.Carrinho.resources
+C:\Users\Bandeira\Documents\VS\11 Ano\Loja Online\Loja Online\obj\Debug\Loja_Online.Form3.resources
